@@ -1,4 +1,4 @@
-import itry.predict as PRE
+import predict as PRE
 import pandas as pd
 
 from sklearn import metrics #example
